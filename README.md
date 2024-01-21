@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alto1988
+- 👋 Hi, I’m Jake
 - 👀 I’m interested in Web Developement and machine learning
 - 🌱 I’m currently learning Web Developement
 - 💞️ I’m looking to collaborate on Whoever is willing.
